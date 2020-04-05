@@ -1,0 +1,1 @@
+document.write("<h1>Dobar dan!</h1><p>Ovo je primjer.</p>")
